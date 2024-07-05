@@ -1,0 +1,5 @@
+timer.c:19:6:timer_init	0	static
+timer.c:94:6:timer_enable_int	0	static
+timer.c:143:6:timer_disable_int	0	static
+timer.c:192:9:timer_get_int	0	static
+timer.c:233:6:timer_clear_int	0	static

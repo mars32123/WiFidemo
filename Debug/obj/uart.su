@@ -1,0 +1,11 @@
+uart.c:469:9:uart_is_uartNo	0	static
+uart.c:26:6:uart_init	16	static
+uart.c:159:9:uart_send1	16	static
+uart.c:192:9:uart_sendN	24	static
+uart.c:222:9:uart_send_string	16	static
+uart.c:248:9:uart_re1	16	static
+uart.c:289:9:uart_reN	32	static
+uart.c:317:6:uart_enable_re_int	8	static
+uart.c:335:6:uart_disable_re_int	8	static
+uart.c:353:9:uart_get_re_int	8	static
+uart.c:376:6:uart_deinit	8	static
